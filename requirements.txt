@@ -1,0 +1,6 @@
+requests>=2.31
+PyYAML>=6.0
+yt-dlp>=2026.1.1
+faster-whisper>=1.1.0
+google-genai>=1.0.0
+chat-downloader>=0.2.8
