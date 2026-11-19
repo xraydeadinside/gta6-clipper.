@@ -68,7 +68,7 @@ whisper:
 youtube:
   # api    — выкладывать автоматически после утверждения
   # manual — бот присылает готовый файл + название/описание, выкладываешь с телефона
-  mode: "api"
+  mode: "manual"
   privacy: "public"
   category_id: "20"        # Gaming
   default_tags: ["gta 6", "gta vi", "gta 6 funny moments", "gta 6 clips", "shorts"]
